@@ -43,9 +43,9 @@ export const INSTAGRAM_DATA: YearlyData = {
         { month: 'Jul', views: 0, posts: 0 },
         { month: 'Ago', views: 0, posts: 0 },
         { month: 'Set', views: 0, posts: 0 },
-        { month: 'Out', views: 0, posts: 0 },
-        { month: 'Nov', views: 0, posts: 0 },
-        { month: 'Dez', views: 0, posts: 0 },
+        { month: 'Out', views: 6000, posts: 71 },
+        { month: 'Nov', views: 5500, posts: 21 },
+        { month: 'Dez', views: 6000, posts: 66 },
       ]
     },
     {
@@ -62,9 +62,9 @@ export const INSTAGRAM_DATA: YearlyData = {
         { month: 'Jul', views: 0, posts: 0 },
         { month: 'Ago', views: 0, posts: 0 },
         { month: 'Set', views: 0, posts: 0 },
-        { month: 'Out', views: 0, posts: 0 },
-        { month: 'Nov', views: 0, posts: 0 },
-        { month: 'Dez', views: 0, posts: 0 },
+        { month: 'Out', views: 3300, posts: 70 },
+        { month: 'Nov', views: 3500, posts: 20 },
+        { month: 'Dez', views: 7000, posts: 76 },
       ]
     },
     {
@@ -81,9 +81,9 @@ export const INSTAGRAM_DATA: YearlyData = {
         { month: 'Jul', views: 0, posts: 0 },
         { month: 'Ago', views: 0, posts: 0 },
         { month: 'Set', views: 0, posts: 0 },
-        { month: 'Out', views: 0, posts: 0 },
-        { month: 'Nov', views: 0, posts: 0 },
-        { month: 'Dez', views: 0, posts: 0 },
+        { month: 'Out', views: 150, posts: 10 },
+        { month: 'Nov', views: 500, posts: 9 },
+        { month: 'Dez', views: 300, posts: 18 },
       ]
     },
     {
@@ -100,9 +100,9 @@ export const INSTAGRAM_DATA: YearlyData = {
         { month: 'Jul', views: 0, posts: 0 },
         { month: 'Ago', views: 0, posts: 0 },
         { month: 'Set', views: 0, posts: 0 },
-        { month: 'Out', views: 0, posts: 0 },
-        { month: 'Nov', views: 0, posts: 0 },
-        { month: 'Dez', views: 0, posts: 0 },
+        { month: 'Out', views: 2800, posts: 55 },
+        { month: 'Nov', views: 3000, posts: 21 },
+        { month: 'Dez', views: 2500, posts: 82 },
       ]
     },
   ],
@@ -131,7 +131,7 @@ export const INSTAGRAM_DATA: YearlyData = {
       name: 'Unopar Ceres',
       handle: '@unoparceres',
       data: [
-        { month: 'Jan', views: 0, posts: 0 },
+        { month: 'Jan', views: 3500, posts: 32 },
         { month: 'Fev', views: 0, posts: 0 },
         { month: 'Mar', views: 0, posts: 0 },
         { month: 'Abr', views: 0, posts: 0 },
@@ -150,7 +150,7 @@ export const INSTAGRAM_DATA: YearlyData = {
       name: 'Unopar Itapaci',
       handle: '@unoparitapaci',
       data: [
-        { month: 'Jan', views: 0, posts: 0 },
+        { month: 'Jan', views: 3000, posts: 31 },
         { month: 'Fev', views: 0, posts: 0 },
         { month: 'Mar', views: 0, posts: 0 },
         { month: 'Abr', views: 0, posts: 0 },
@@ -169,7 +169,7 @@ export const INSTAGRAM_DATA: YearlyData = {
       name: 'Unopar Rialma',
       handle: '@unoparrialma',
       data: [
-        { month: 'Jan', views: 0, posts: 0 },
+        { month: 'Jan', views: 600, posts: 10 },
         { month: 'Fev', views: 0, posts: 0 },
         { month: 'Mar', views: 0, posts: 0 },
         { month: 'Abr', views: 0, posts: 0 },
@@ -188,7 +188,7 @@ export const INSTAGRAM_DATA: YearlyData = {
       name: 'Anhanguera Jaraguá',
       handle: '@anhanguerajaragua',
       data: [
-        { month: 'Jan', views: 0, posts: 0 },
+        { month: 'Jan', views: 3300, posts: 29 },
         { month: 'Fev', views: 0, posts: 0 },
         { month: 'Mar', views: 0, posts: 0 },
         { month: 'Abr', views: 0, posts: 0 },
